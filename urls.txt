@@ -1,0 +1,4 @@
+https://www.python.org
+https://tr.wikipedia.org/wiki/Ghidra
+https://www.google.com
+https://stackoverflow.com/questions
